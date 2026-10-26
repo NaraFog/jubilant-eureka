@@ -1,6 +1,9 @@
 ## CS-360 Mobile Architect and Programming
 Nara Fog
 
+-------
+Project Three Overview
+
 Weigh Wise is an Android app that helps users track their weight and keep up with their personal goals. Users can create an account, log in, enter their weight, and access the Manage Alerts screen. I wanted to make the app simple and easy to use without adding too many unnecessary features.
 
 When designing the app, I used navy blue and light blue to keep the screens looking consistent and clean. I made the buttons and text easy to understand so users could get around the app without getting confused. I think the design works well because it is straightforward and focuses on the main things users need.
